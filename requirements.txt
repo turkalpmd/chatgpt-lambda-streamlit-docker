@@ -1,0 +1,5 @@
+streamlit
+pymongo
+requests
+datetime
+Pillow
