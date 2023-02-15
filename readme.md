@@ -1,6 +1,6 @@
 # Creating a Lambda Function to Use OpenAI API
 
-[]("https://github.com/turkalpmd/chatgpt-lambda-streamlit-docker/blob/master/gpt.jpg")
+![]("https://github.com/turkalpmd/chatgpt-lambda-streamlit-docker/blob/master/gpt.jpg")
 #
 #
 * This guide outlines the steps to create a Lambda function that utilizes the OpenAI API to generate text.
